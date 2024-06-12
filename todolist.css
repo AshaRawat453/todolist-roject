@@ -1,0 +1,21 @@
+
+div{
+    background-image: url('todolist.jpeg');
+    height: 900px;
+    width: 500px;
+    color: white;
+    display:auto;
+    margin: 50px;
+    text-align: center;
+     position: center;
+}
+button{
+    height: 40px;
+    width:70px;
+    background-color: orange;
+    color: white;
+}
+a{
+    text-decoration: underline;
+    color: white;
+}
